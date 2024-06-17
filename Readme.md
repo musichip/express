@@ -117,6 +117,7 @@ $ npm start
   you can quickly craft your perfect framework.
 
 ## Examples
+## Trial
 
   To view the examples, clone the Express repo and install the dependencies:
 
